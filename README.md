@@ -37,7 +37,7 @@ tsconfig.json
 ## ⚙️ Setup
 
 ```bash
-git clone [<repo-url>](https://github.com/Krishkumar2005/user-management-backend.git)
+git clone https://github.com/Krishkumar2005/user-management-backend.git
 cd user-management-backend
 npm install
 ```
